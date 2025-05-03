@@ -4,12 +4,16 @@ Welcome to Launching My Resources Into Your Amazon VPC, a guide crafted to simpl
 
 🌍 Why This Project?
 -
+
 Building a well-structured VPC is the foundation of cloud networking. This guide ensures: ✨ Seamless deployment of resources within a controlled environment.
+
 🛡️ Robust security configurations to safeguard your infrastructure.
+
 ⚡ Optimized traffic flow for efficient communication between AWS services.
 -
 ⚙️ Key Features
 -
+
 ✔️ Custom VPC Creation – Tailor your virtual network to meet your needs.
 ✔️ Subnet Design – Divide resources into private and public subnets.
 ✔️ Security Best Practices – Implement IAM roles, Security Groups, and Network ACLs.
