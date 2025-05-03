@@ -10,7 +10,7 @@ Building a well-structured VPC is the foundation of cloud networking. This guide
 🛡️ Robust security configurations to safeguard your infrastructure.
 
 ⚡ Optimized traffic flow for efficient communication between AWS services.
--
+
 ⚙️ Key Features
 -
 
@@ -19,7 +19,7 @@ Building a well-structured VPC is the foundation of cloud networking. This guide
 ✔️ Security Best Practices – Implement IAM roles, Security Groups, and Network ACLs.
 ✔️ VPC Endpoints – Securely connect to AWS services without exposing traffic to the internet.
 ✔️ Traffic Flow Optimization – Direct, filter, and monitor network traffic efficiently.
--
+
 🚀 Getting Started
 -
 ### Prerequisites
